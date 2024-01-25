@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Spinner_OnItemSelected_Listener</string>
+
+    <string-array name="county_names">
+        <item>Afghanistan</item>
+        <item>Azerbaijan</item>
+        <item>Bangladesh</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Pakistan</item>
+        <item>Turkey</item>
+    </string-array>
+
+
+    <string-array name="population_num">
+
+        <item>10.14 million </item>
+        <item>40.1 million </item>
+        <item>169.4 million </item>
+        <item>273.8 million </item>
+        <item>87.92 million </item>
+        <item>43.53 million </item>
+        <item>231.4 million </item>
+        <item>84.78 million </item>
+
+    </string-array>
+
+
+
+</resources>

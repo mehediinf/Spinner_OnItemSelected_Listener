@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="80dp">
+    
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView_Id"
+        android:src="@drawable/bangladesh_icon"
+        android:padding="5dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sample_textTitelView_Id"
+            android:textStyle="bold"
+            android:textColor="#C6165C"
+            android:text="Bangladesh"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sample_PopulationView_Id"
+            android:text="Long live Bangladesh"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            />
+
+
+
+    </LinearLayout>
+    
+
+</LinearLayout>
